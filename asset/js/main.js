@@ -30,46 +30,64 @@ const app = {
     
     songs: [
         {
-            name: "Bai so 1",
-            singer: "Raftaar x Fortnite",
-            path: "./asset/mp3/bai1.mp3",
-            image: "https://i.ytimg.com/vi/jTLhQf5KJSc/maxresdefault.jpg"
+            name: "Cánh hoa tàn",
+            singer: "Hương Tràm",
+            path: "./asset/mp3/CanhHoaTan.mp3",
+            image: "./asset/img/CanhHoaTan.jpg"
         },
         {
-            name: "Bai so 2",
-            singer: "Raftaar ",
-            path: "./asset/mp3/bai2.mp3",
-            image: "https://i.ytimg.com/vi/jTLhQf5KJSc/maxresdefault.jpg"
+            name: "Đã sai từ lúc đầu",
+            singer: "Trung Quân Idol X Bùi Anh Tuấn",
+            path: "./asset/mp3/DaSaiTuLucDau.mp3",
+            image: "./asset/img/DaSaiTuLucDau.jpg"
         },
         {
-            name: "Bai so 3",
-            singer: "Van Mai Huong ",
-            path: "./asset/mp3/bai3.mp3",
-            image: "https://i.ytimg.com/vi/jTLhQf5KJSc/maxresdefault.jpg"
+            name: "Mùa hè tuyệt vời",
+            singer: "Đức Phúc",
+            path: "./asset/mp3/MuaHeTuyetVoi.mp3",
+            image: "./asset/img/MuaHeTuyetVoi.jpg"
         },
         {
-            name: "Bai so 4",
-            singer: "Loan",
-            path: "./asset/mp3/bai1.mp3",
-            image: "https://i.ytimg.com/vi/jTLhQf5KJSc/maxresdefault.jpg"
+            name: "Như phút ban đầu",
+            singer: "Noo Phước Thịnh",
+            path: "./asset/mp3/NhuPhutBanDau.mp3",
+            image: "./asset/img/NhuPhutBanDau.jpg"
         },
         {
-            name: "Bai so 5",
-            singer: "Linh",
-            path: "./asset/mp3/bai2.mp3",
-            image: "https://i.ytimg.com/vi/jTLhQf5KJSc/maxresdefault.jpg"
+            name: "Nỗi nhớ đầy vơi",
+            singer: "Noo Phước Thịnh",
+            path: "./asset/mp3/NoiNhoDayVoi.mp3",
+            image: "./asset/img/NoiNhoDayVoi.jpg"
         },
         {
-            name: "Bai so 6",
-            singer: "Lien",
-            path: "./asset/mp3/bai3.mp3",
-            image: "https://i.ytimg.com/vi/jTLhQf5KJSc/maxresdefault.jpg"
+            name: "Tình nào không như tình đầu",
+            singer: "Trung Quân Idol",
+            path: "./asset/mp3/TinhNaoKhongNhuTinhDau.mp3",
+            image: "./asset/img/TinhNaoKhongNhuTinhDau.jpg"
         },
         {
-            name: "Bai so 7",
-            singer: "Huong",
-            path: "./asset/mp3/bai3.mp3",
-            image: "https://i.ytimg.com/vi/jTLhQf5KJSc/maxresdefault.jpg"
+            name: "Từ chối nhẹ nhàng thôi",
+            singer: "Bích Phương X Phúc Du",
+            path: "./asset/mp3/TuChoiNheNhangThoi.mp3",
+            image: "./asset/img/TuChoiNheNhangThoi.jpg"
+        },
+        {
+            name: "Anh tự do nhưng cô đơn",
+            singer: "Trung Quân Idol",
+            path: "./asset/mp3/AnhTuDoNhungCoDon.mp3",
+            image: "./asset/img/AnhTuDoNhungCoDon.jpg"
+        },
+        {
+            name: "Tự sự",
+            singer: "Orange",
+            path: "./asset/mp3/TuSu.mp3",
+            image: "./asset/img/TuSu.jpg"
+        },
+        {
+            name: "Ưóc mơ của mẹ",
+            singer: "Văn Mai Hương",
+            path: "./asset/mp3/UocMoCuaMe.mp3",
+            image: "./asset/img/UocMoCuaMe.jpg"
         }
     ],
     setConfig: function (key, value) {
